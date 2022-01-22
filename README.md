@@ -1,3 +1,3 @@
-### www.cityoflondonconsulting.com is not here its in appjoyride/appjoyride branch: gh-pages
-repointed to
+### www.cityoflondonconsulting.com was in appjoyride/appjoyride branch: gh-pages
+22 jan 2022 repointed to
 https://cityoflondonconsulting.github.io/cityoflondonconsulting/
